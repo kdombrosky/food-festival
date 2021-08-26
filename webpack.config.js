@@ -51,6 +51,7 @@ module.exports = {
             }
         ]
     },
+
     // plugins configured here
     plugins: [
         new webpack.ProvidePlugin({
